@@ -1,0 +1,169 @@
+2023/08/09 01:05 AM Eastern Time (ET)
+ 1?                        S&P 500?   4,499.38?     -19.06? -0.42%
+ 2?   Dow Jones Industrial Average?  35,314.49?    -158.64? -0.45%
+ 3?               Nasdaq Composite?  13,884.32?    -110.07? -0.79%
+ 4?             Russell 2000 Index?   1,947.42?     -11.52? -0.59%
+ 5?        S&P/TSX Composite Index?  20,205.98?     -30.06? -0.15%
+ 6?                       IBOVESPA? 119,090.24?    -289.26? -0.24%
+ 7?          DAX PERFORMANCE-INDEX?  15,774.93?    -175.83? -1.10%
+ 8?                 FTSE 100 Index?   7,527.42?     -27.07? -0.36%
+ 9?                         CAC 40?   7,269.47?     -50.29? -0.69%
+10?                        IBEX 35?   9,294.90?     -63.70? -0.68%
+11?                  EURO STOXX 50?   4,288.85?     -48.65? -1.12%
+12?                       S&P EURO?   1,898.13?     -18.62? -0.97%
+13?                     Nikkei 225?  32,268.87?    -108.42? -0.33%
+14?            SSE Composite Index?   3,247.85?     -12.77? -0.39%
+15?                Hang Seng Index?  19,182.18?      -1.99? -0.010%
+16?                     BSE SENSEX?  65,484.50?    -362.00? -0.55%
+17?                       NIFTY 50?  19,479.10?     -91.75? -0.47%
+18?                    S&P Asia 50?   4,643.39?     -63.71? -1.35%
+ 1?              Suncor Energy Inc?     $41.73?     +$0.65? +1.58%
+ 2?        Manulife Financial Corp?     $26.06?    +$0.070? +0.27%
+ 3?             Canopy Growth Corp?      $0.63?    +$0.030? +5.00%
+ 4?              Tilray Brands Inc?      $4.06?     +$0.96? +30.97%
+ 5?                   Enbridge Inc?     $48.29?     +$0.21? +0.44%
+ 6?          Toronto-Dominion Bank?     $85.42?     -$0.98? -1.13%
+ 7?            Tourmaline Oil Corp?     $69.20?     +$0.12? +0.17%
+ 8? Canadian Natural Resources Ltd?     $81.77?     +$0.26? +0.32%
+ 9?       Kinross Gold Corporation?      $6.74?    +$0.100? +1.51%
+10?             Baytex Energy Corp?      $5.45?    +$0.020? +0.37%
+11?                     Air Canada?     $23.06?     +$0.13? +0.57%
+12?              Barrick Gold Corp?     $22.02?    -$0.020? -0.091%
+13?             Cenovus Energy Inc?     $25.83?     +$0.33? +1.29%
+14?           Royal Bank of Canada?    $127.48?     -$0.77? -0.60%
+15?   TC PIPELINES LP Common Stock?     $48.54?     +$0.35? +0.73%
+16? Canadian Imperial Bank of Commerce?     $56.39?     -$0.57? -1.00%
+17?         Sun Life Financial Inc?     $68.52?     -$0.50? -0.72%
+18?                    Shopify Inc?     $75.33?     -$2.19? -2.83%
+19?            Bank of Nova Scotia?     $63.81?     -$0.56? -0.87%
+20?                MEG Energy Corp?     $24.27?     +$0.23? +0.96%
+21? Algonquin Power & Utilities Corp?     $10.43?    +$0.040? +0.38%
+22?                     Telus Corp?     $22.98?    +$0.010? +0.044%
+23?              Hut 8 Mining Corp?      $4.39?     +$0.21? +5.02%
+24?             Lundin Mining Corp?     $11.39?     -$0.24? -2.06%
+25?                    B2Gold Corp?      $4.20?    -$0.080? -1.87%
+26?     Crescent Point Energy Corp?     $11.08?     +$0.13? +1.19%
+27?          Great-West Lifeco Inc?     $40.45?    +$0.060? +0.15%
+28?             Athabasca Oil Corp?      $3.76?    +$0.020? +0.53%
+29?              ARC Resources Ltd?     $20.30?    +$0.060? +0.30%
+30?         Whitecap Resources Inc?     $10.98?     +$0.15? +1.39%
+31?     First Quantum Minerals Ltd?     $36.56?     -$0.51? -1.38%
+32?    Power Corporation of Canada?     $37.91?     -$0.15? -0.39%
+33?         Agnico Eagle Mines Ltd?     $64.65?     -$0.34? -0.52%
+34?               Imperial Oil Ltd?     $72.51?     +$1.40? +1.97%
+35?             Gibson Energy Inc.?     $20.25?     +$0.25? +1.25%
+36?                        BCE Inc?     $56.07?     -$0.21? -0.37%
+37?          Birchcliff Energy Ltd?      $8.28?     +$0.26? +3.24%
+38?              Ivanhoe Mines Ltd?     $13.14?    -$0.050? -0.38%
+39? Rogers Communications Inc Class B?     $55.48?     -$0.61? -1.09%
+40?                   Bitfarms Ltd?      $2.20?    +$0.090? +4.27%
+41?                Brookfield Corp?     $44.47?     +$0.27? +0.61%
+42?             Denison Mines Corp?      $1.76?    +$0.070? +4.14%
+43?     Tamarack Valley Energy Ltd?      $3.73?    +$0.060? +1.63%
+44?               Galiano Gold Inc?      $0.83?   -$0.0100? -1.19%
+45?          Pembina Pipeline Corp?     $41.36?    +$0.070? +0.17%
+46?        Trican Well Service Ltd?      $4.52?    +$0.040? +0.89%
+47?              Argonaut Gold Inc?      $0.54?   -$0.0100? -1.82%
+48?             Centerra Gold Inc.?      $8.03?    -$0.030? -0.37%
+49?       Bombardier, Inc. Class B?     $55.38?     -$1.90? -3.32%
+50?                  Hydro One Ltd?     $36.12?    -$0.080? -0.22%
+ 1?              Tilray Brands Inc?      $4.06?     +$0.96? +30.97%
+ 2?               Orea Mining Corp?     $0.035?   +$0.0050? +16.67%
+ 3? Intellipharmaceutics International Inc?      $0.13?    +$0.015? +13.04%
+ 4?               Xanadu Mines Ltd?     $0.090?    +$0.010? +12.50%
+ 5?            Propel Holdings Inc?      $9.17?     +$0.98? +11.97%
+ 6?    Medexus Pharmaceuticals Inc?      $3.24?     +$0.34? +11.72%
+ 7?                Terrascend Corp?      $2.08?     +$0.21? +11.23%
+ 8?              Bengal Energy Ltd?     $0.050?   +$0.0050? +11.11%
+ 9? Doman Building Materials Group Ltd?      $7.94?     +$0.58? +7.88%
+10?           Orvana Minerals Corp?      $0.16?   +$0.0100? +6.67%
+11? Westshore Terminals Investment Corp?     $29.49?     +$1.74? +6.27%
+12?   Western Copper and Gold Corp?      $2.01?     +$0.11? +5.79%
+13?       Burcon NutraScience Corp?      $0.19?    +$0.010? +5.71%
+14?             Flow Beverage Corp?      $0.38?    +$0.020? +5.56%
+15?                  Petrotal Corp?      $0.76?    +$0.040? +5.56%
+16?               Energy Fuels Inc?      $8.56?     +$0.44? +5.42%
+17? High Arctic Energy Services, Inc.?      $1.42?    +$0.070? +5.19%
+18?              Hut 8 Mining Corp?      $4.39?     +$0.21? +5.02%
+19?             Canopy Growth Corp?      $0.63?    +$0.030? +5.00%
+20?              Star Diamond Corp?      $0.11?   +$0.0050? +5.00%
+21?           Uranium Royalty Corp?      $3.03?     +$0.14? +4.84%
+22?                Condor Gold PLC?      $0.44?    +$0.020? +4.76%
+23?       Ceridian HCM Holding Inc?     $99.87?     +$4.39? +4.60%
+24?                     Sprott Inc?     $45.39?     +$1.99? +4.59%
+25?        Ascendant Resources Inc?      $0.12?   +$0.0050? +4.55%
+26?           Imperial Metals Corp?      $2.80?     +$0.12? +4.48%
+27?     Ensign Energy Services Inc?      $2.81?     +$0.12? +4.46%
+28?               Kits Eyecare Ltd?      $5.40?     +$0.23? +4.45%
+29?         PyroGenesis Canada Inc?      $0.94?    +$0.040? +4.44%
+30?                   Bitfarms Ltd?      $2.20?    +$0.090? +4.27%
+31?            Aurora Cannabis Inc?      $0.75?    +$0.030? +4.17%
+32?     Touchstone Exploration Inc?      $1.50?    +$0.060? +4.17%
+33?             Denison Mines Corp?      $1.76?    +$0.070? +4.14%
+34?               Ecosynthetix Inc?      $3.80?     +$0.15? +4.11%
+35?                 AutoCanada Inc?     $21.37?     +$0.82? +3.99%
+36?             Marathon Gold Corp?      $0.80?    +$0.030? +3.90%
+37? International Tower Hill Mines Ltd?      $0.54?    +$0.020? +3.85%
+38?            Dundee Corp Class A?      $1.38?    +$0.050? +3.76%
+39?                Mawson Gold Ltd?      $0.14?   +$0.0050? +3.57%
+40?  Element Fleet Management Corp?     $21.75?     +$0.72? +3.42%
+41?             Journey Energy Inc?      $6.08?     +$0.20? +3.40%
+42?           DREAM Unlimited Corp?     $20.92?     +$0.67? +3.31%
+43?          Viemed Healthcare Inc?     $11.64?     +$0.37? +3.28%
+44?           Bonterra Energy Corp?      $7.27?     +$0.23? +3.27%
+45?          Birchcliff Energy Ltd?      $8.28?     +$0.26? +3.24%
+46?         First Mining Gold Corp?      $0.16?   +$0.0050? +3.23%
+47?            Polymet Mining Corp?      $2.79?    +$0.080? +2.95%
+48?             Nevada Copper Corp?      $0.18?   +$0.0050? +2.94%
+49? Bsr Real Estate Investment Trust?     $12.99?     +$0.37? +2.93%
+50?               Valeo Pharma Inc?      $0.36?    +$0.010? +2.86%
+ 1?    Silver Elephant Mining Corp?      $0.25?    -$0.080? -24.24%
+ 2?              Theratechnologies?      $2.08?     -$0.50? -19.38%
+ 3?        Appili Therapeutics Inc?     $0.055?   -$0.0100? -15.38%
+ 4?                     Tucows Inc?     $28.30?     -$4.18? -12.87%
+ 5?              Titan Mining Corp?      $0.41?    -$0.060? -12.77%
+ 6?       Cardiol Therapeutics Inc?      $1.40?     -$0.20? -12.50%
+ 7? Scandium International Mining Corp?     $0.035?   -$0.0050? -12.50%
+ 8?            Euro Sun Mining Inc?     $0.035?   -$0.0050? -12.50%
+ 9?              Nova Cannabis Inc?      $0.40?    -$0.055? -12.22%
+10?              BBTV Holdings Inc?      $0.29?    -$0.040? -12.12%
+11?                   Geodrill Ltd?      $2.75?     -$0.35? -11.29%
+12?   Charlotte's Web Holdings Inc?      $0.36?    -$0.045? -11.25%
+13?         CubicFarm Systems Corp?     $0.040?   -$0.0050? -11.11%
+14?    Fansunite Entertainment Inc?     $0.040?   -$0.0050? -11.11%
+15?         Excellon Resources Inc?     $0.080?    -$0.010? -11.11%
+16?          Pet Valu Holdings Ltd?     $27.28?     -$3.04? -10.03%
+17?               Avant Brands Inc?      $0.23?    -$0.025? -10.00%
+18?           Sulliden Minerals SA?     $0.045?   -$0.0050? -10.00%
+19? Century Global Commodities Corp?     $0.045?   -$0.0050? -10.00%
+20? Dirtt Environmental Solutions Ltd?      $0.59?    -$0.060? -9.23%
+21?  Essential Energy Services Ltd?      $0.35?    -$0.035? -9.21%
+22?              Titan Medical Inc?      $0.21?    -$0.020? -8.70%
+23?                Loop Energy Inc?      $0.63?    -$0.060? -8.70%
+24? Givex Information Technology Group Ltd?      $0.44?    -$0.035? -7.37%
+25?                   dynaCERT Inc?      $0.20?    -$0.015? -6.98%
+26? MCI Onehealth Technologies Inc?      $0.28?    -$0.020? -6.67%
+27?            Medipharm Labs Corp?     $0.075?   -$0.0050? -6.25%
+28?          Endeavour Silver Corp?      $4.04?     -$0.26? -6.05%
+29? Americas Gold and Silver Corporation?      $0.48?    -$0.030? -5.88%
+30?                         Q4 Inc?      $4.00?     -$0.25? -5.88%
+31?          Silvercorp Metals Inc?      $3.64?     -$0.22? -5.70%
+32?           Skeena Resources Ltd?      $6.32?     -$0.38? -5.67%
+33?                    Kinaxis Inc?    $160.34?     -$9.39? -5.53%
+34?        AirBoss of America Corp?      $4.82?     -$0.28? -5.49%
+35?            Calibre Mining Corp?      $1.55?    -$0.090? -5.49%
+36?          Aya Gold & Silver Inc?      $7.77?     -$0.45? -5.47%
+37?  Cathedral Energy Services Ltd?      $0.87?    -$0.050? -5.43%
+38?                 K92 Mining Inc?      $5.79?     -$0.33? -5.39%
+39?            Condor Energies Inc?      $1.60?    -$0.090? -5.33%
+40?         Oncolytics Biotech Inc?      $2.86?     -$0.16? -5.30%
+41? St Augustine Gold and Copper Ltd?     $0.095?   -$0.0050? -5.00%
+42?               Resverlogix Corp?     $0.095?   -$0.0050? -5.00%
+43?                     Docebo Inc?     $47.50?     -$2.48? -4.96%
+44?                ADF Group, Inc.?      $4.10?     -$0.21? -4.87%
+45?               Cronos Group Inc?      $2.36?     -$0.12? -4.84%
+46?       Torex Gold Resources Inc?     $15.91?     -$0.80? -4.79%
+47?              Aura Minerals Inc?      $9.76?     -$0.49? -4.78%
+48?        Karnalyte Resources Inc?      $0.20?   -$0.0100? -4.76%
+49?            Novo Resources Corp?      $0.20?   -$0.0100? -4.76%
+50?        Lightspeed Commerce Inc?     $22.70?     -$1.13? -4.74%

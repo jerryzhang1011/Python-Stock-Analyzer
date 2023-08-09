@@ -1,0 +1,7 @@
+https://www.google.com/finance/markets/indexes?hl=en
+
+https://www.google.com/finance/markets/most-active?hl=en
+
+https://www.google.com/finance/markets/gainers?hl=en
+
+https://www.google.com/finance/markets/losers?hl=en
