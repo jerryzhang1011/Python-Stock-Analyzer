@@ -12,7 +12,7 @@ from gfinance.stock import write_into_xl
 
 class GfinancePipeline:
     scr_file = './gfinance/data.txt'
-    dest_file = 'test.xlsx' 
+    dest_file = 'Data.xlsx' 
     def open_spider(self, spider):
         self.fp = open(GfinancePipeline.scr_file, 'w')
         self.fp.close()
