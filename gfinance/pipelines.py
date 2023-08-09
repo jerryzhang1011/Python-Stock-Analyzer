@@ -7,15 +7,17 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import datetime
+from gfinance.stock import write_into_xl
 
 
 class GfinancePipeline:
-    
+    scr_file = './gfinance/data.txt'
+    dest_file = 'Data.xlsx' 
     def open_spider(self, spider):
-        self.fp = open('data.txt', 'w')
+        self.fp = open(GfinancePipeline.scr_file, 'w')
         self.fp.close()
         
-        self.fp = open('data.txt', 'a')
+        self.fp = open(GfinancePipeline.scr_file, 'a')
         # Get the current date and time
         current_datetime = datetime.datetime.now()
 
@@ -61,4 +63,4 @@ class GfinancePipeline:
     
     def close_spider(self, spider):
         self.fp.close()
-    
+        write_into_xl(GfinancePipeline.scr_file, GfinancePipeline.dest_file)
