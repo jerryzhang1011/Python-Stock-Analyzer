@@ -11,9 +11,8 @@ To Start program:
 1. Enter terminal
 2. Enter "Python-Stock-Analyzer" directory
 3. Set up requirements:
-type:
-"pip install -r requirements.txt"   to install necessary dependencies
-"chmod a+x start.sh"                to give permission to "start" script
+type "pip install -r requirements.txt"   to install necessary dependencies
+"chmod a+x start.sh"                     to give permission to "start" script
 
 To Run Program:
 type:
