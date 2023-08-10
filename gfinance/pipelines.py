@@ -45,6 +45,8 @@ class GfinancePipeline:
             p_change = "-" + p_change[8:]
         elif p_change.startswith("Up by"):
             p_change = "+" + p_change[6:]
+        elif p_change.startswith("Changed by"):
+            p_change = "+" + p_change[11:]
         else:
             p_change = p_change
 
