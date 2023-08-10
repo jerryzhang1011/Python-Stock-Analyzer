@@ -6,5 +6,5 @@ and download summarized data including:
 market index, most active, most gainer, most loser
 stock company to "Data.xlsx"
 
-Start program by running start.sh by typing ./start.sh in terminal
-See requirement.txt
+Start program by running start.sh by typing "./start.sh" in terminal
+See requirements.txt
