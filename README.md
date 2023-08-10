@@ -10,7 +10,7 @@ stock company to "Data.xlsx"
 To Start program:
 1. Enter terminal
 2. Enter "Python-Stock-Analyzer" directory
-3. Set up
+3. Set up,
 type:
 "pip install -r requirements.txt"   to install necessary dependencies
 "chmod a+x start.sh"                to give permission to "start" script
