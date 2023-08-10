@@ -7,7 +7,7 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 import datetime
-from gfinance.stock import write_into_xl
+from gfinance.write_xl import write_into_xl
 
 
 class GfinancePipeline:
